@@ -1,6 +1,6 @@
+ HEAD
 
 Streamlit In-Class Quiz Prototype
-=================================
 
 Files created:
 - quiz_app.py        : The Streamlit app (single-file)
@@ -35,3 +35,6 @@ Notes & Caveats:
   to a lightweight database (SQLite) or using a dedicated real-time backend (Flask-SocketIO).
 - Change TEACHER_PASSWORD in quiz_app.py before using in real assessment situations.
 - Ensure your laptop firewall allows incoming connections on the chosen port (8501).
+
+# silvertech-quiz-app
+027905e65ece4f1d4c0f8b6f711161a03ef13301

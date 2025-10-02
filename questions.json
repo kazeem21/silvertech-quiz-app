@@ -1,0 +1,495 @@
+[
+  {
+    "question": "What is 7 \u00d7 8?",
+    "options": [
+      "A. 48",
+      "B. 54",
+      "C. 56",
+      "D. 64"
+    ],
+    "answer": "C. 56"
+  },
+  {
+    "question": "What is the capital of Nigeria?",
+    "options": [
+      "A. Lagos",
+      "B. Abuja",
+      "C. Kano",
+      "D. Port Harcourt"
+    ],
+    "answer": "B. Abuja"
+  },
+  {
+    "question": "Which number is prime?",
+    "options": [
+      "A. 21",
+      "B. 29",
+      "C. 27",
+      "D. 51"
+    ],
+    "answer": "B. 29"
+  },
+  {
+    "question": "What is the square root of 144?",
+    "options": [
+      "A. 10",
+      "B. 11",
+      "C. 12",
+      "D. 14"
+    ],
+    "answer": "C. 12"
+  },
+  {
+    "question": "Which language is primarily used for web front-end?",
+    "options": [
+      "A. Python",
+      "B. C++",
+      "C. JavaScript",
+      "D. SQL"
+    ],
+    "answer": "C. JavaScript"
+  },
+  {
+    "question": "Farmers in northern Nigeria often build houses with thick mud walls. What is the main scientific reason for this?",
+    "options": [
+      "A. To keep snakes away",
+      "B. To maintain a cool temperature inside",
+      "C. Because mud is cheaper than cement",
+      "D. To prevent termites"
+    ],
+    "answer": "B. To maintain a cool temperature inside",
+    "explanation": "Thick mud walls act as insulators, helping to keep the house cool during hot days and warm during cold nights."
+  },
+  {
+    "question": "Why does palm oil appear red when fresh but dark brown when used many times for frying?",
+    "options": [
+      "A. It reacts with salt",
+      "B. It loses oxygen",
+      "C. It undergoes oxidation",
+      "D. It absorbs food colour"
+    ],
+    "answer": "C. It undergoes oxidation",
+    "explanation": "Palm oil becomes darker due to repeated heating and exposure to oxygen, which causes oxidation."
+  },
+  {
+    "question": "Which of the following best explains why rainwater is considered 'soft water'?",
+    "options": [
+      "A. It contains soap",
+      "B. It lacks dissolved salts",
+      "C. It is always cold",
+      "D. It contains chlorine"
+    ],
+    "answer": "B. It lacks dissolved salts",
+    "explanation": "Rainwater is 'soft' because it has little to no dissolved calcium or magnesium salts compared to borehole or river water."
+  },
+  {
+    "question": "In Nigeria, most people cook beans for a long time. Scientifically, why does adding potash reduce the cooking time?",
+    "options": [
+      "A. It changes the beans’ colour",
+      "B. It increases the water’s boiling point",
+      "C. It softens the seed coat by breaking down pectin",
+      "D. It adds extra heat"
+    ],
+    "answer": "C. It softens the seed coat by breaking down pectin",
+    "explanation": "Potash breaks down pectin in the beans’ seed coat, making them softer and reducing cooking time."
+  },
+  {
+    "question": "Why does water stored in clay pots (earthenware) taste cooler than water kept in plastic containers?",
+    "options": [
+      "A. Clay has a sweeter taste",
+      "B. Clay allows slight evaporation which cools the water",
+      "C. Clay is heavier",
+      "D. Plastic absorbs heat"
+    ],
+    "answer": "B. Clay allows slight evaporation which cools the water",
+    "explanation": "Clay pots are porous and allow evaporation, which absorbs heat and naturally cools the water."
+  },
+  {
+    "question": "Why do clothes dry faster in Maiduguri than in Port Harcourt?",
+    "options": [
+      "A. Maiduguri is hotter and less humid",
+      "B. Port Harcourt has better soil",
+      "C. Rainfall is higher in Port Harcourt",
+      "D. People in Maiduguri use stronger detergents"
+    ],
+    "answer": "A. Maiduguri is hotter and less humid",
+    "explanation": "Drying is faster in dry, hot climates like Maiduguri because the air holds less moisture compared to humid Port Harcourt."
+  },
+  {
+    "question": "Why do plantains turn black when stored for many days?",
+    "options": [
+      "A. Attack by animals",
+      "B. Fermentation of starch",
+      "C. Enzymatic breakdown and ripening",
+      "D. Lack of sunlight"
+    ],
+    "answer": "C. Enzymatic breakdown and ripening",
+    "explanation": "Plantains turn black because of enzymatic activity and natural ripening, breaking down starch into sugars."
+  },
+  {
+    "question": "Why does the Harmattan season make lips dry and cracked?",
+    "options": [
+      "A. Due to excessive rainfall",
+      "B. Due to dusty and dry winds with low humidity",
+      "C. Because of salt in the air",
+      "D. Because the sun is weaker"
+    ],
+    "answer": "B. Due to dusty and dry winds with low humidity",
+    "explanation": "Harmattan winds carry very dry air which reduces skin and lip moisture, causing dryness and cracks."
+  },
+  {
+    "question": "Why do metal roofs get hotter than wooden roofs in Nigeria’s dry season?",
+    "options": [
+      "A. Metal conducts heat faster",
+      "B. Wood attracts less sun",
+      "C. Metals reflect air",
+      "D. Wood is heavier"
+    ],
+    "answer": "A. Metal conducts heat faster",
+    "explanation": "Metals conduct heat much faster than wood, so metal roofs absorb and transfer more heat inside."
+  },
+  {
+    "question": "Why does garri swell when water is added?",
+    "options": [
+      "A. It absorbs oxygen",
+      "B. It absorbs water due to starch granules",
+      "C. It ferments instantly",
+      "D. It expands because of air"
+    ],
+    "answer": "B. It absorbs water due to starch granules",
+    "explanation": "Garri contains starch which absorbs water, causing swelling and expansion."
+  },
+
+  {
+    "question": "A trader sells 12 oranges for ₦240. How much will 30 oranges cost?",
+    "options": [
+      "A. ₦500",
+      "B. ₦600",
+      "C. ₦700",
+      "D. ₦720"
+    ],
+    "answer": "B. ₦600",
+    "explanation": "One orange = ₦20. For 30 oranges = 30 × ₦20 = ₦600."
+  },
+  {
+    "question": "If a bus moves from Ibadan to Lagos (120 km) at 60 km/h, how long will the trip take?",
+    "options": [
+      "A. 30 minutes",
+      "B. 1 hour",
+      "C. 2 hours",
+      "D. 3 hours"
+    ],
+    "answer": "C. 2 hours",
+    "explanation": "Time = Distance / Speed = 120 ÷ 60 = 2 hours."
+  },
+  {
+    "question": "Simplify: 84 ÷ (6 × 2).",
+    "options": [
+      "A. 7",
+      "B. 14",
+      "C. 84",
+      "D. 42"
+    ],
+    "answer": "A. 7",
+    "explanation": "6 × 2 = 12. Then 84 ÷ 12 = 7."
+  },
+  {
+    "question": "What is the value of 15% of ₦2000?",
+    "options": [
+      "A. ₦250",
+      "B. ₦300",
+      "C. ₦350",
+      "D. ₦400"
+    ],
+    "answer": "B. ₦300",
+    "explanation": "15% = 15/100. 15/100 × 2000 = 300."
+  },
+  {
+    "question": "A farmer bought 50 yams for ₦25,000. What is the cost of one yam?",
+    "options": [
+      "A. ₦400",
+      "B. ₦450",
+      "C. ₦500",
+      "D. ₦550"
+    ],
+    "answer": "C. ₦500",
+    "explanation": "25,000 ÷ 50 = 500."
+  },
+  {
+    "question": "Find the next number in the sequence: 2, 6, 18, 54, ?",
+    "options": [
+      "A. 108",
+      "B. 162",
+      "C. 216",
+      "D. 324"
+    ],
+    "answer": "B. 162",
+    "explanation": "Each term is multiplied by 3: 2×3=6, 6×3=18, 18×3=54, 54×3=162."
+  },
+  {
+    "question": "If 3x = 18, what is x?",
+    "options": [
+      "A. 3",
+      "B. 6",
+      "C. 9",
+      "D. 18"
+    ],
+    "answer": "B. 6",
+    "explanation": "Divide both sides by 3 → x = 6."
+  },
+  {
+    "question": "The perimeter of a square is 48 cm. What is the length of one side?",
+    "options": [
+      "A. 10 cm",
+      "B. 12 cm",
+      "C. 14 cm",
+      "D. 16 cm"
+    ],
+    "answer": "B. 12 cm",
+    "explanation": "Perimeter = 4 × side. Side = 48 ÷ 4 = 12 cm."
+  },
+  {
+    "question": "Convert 3/4 to a percentage.",
+    "options": [
+      "A. 25%",
+      "B. 50%",
+      "C. 75%",
+      "D. 100%"
+    ],
+    "answer": "C. 75%",
+    "explanation": "3/4 = 0.75. In % = 0.75 × 100 = 75%."
+  },
+  {
+    "question": "What is the simple interest on ₦5000 for 2 years at 10% per annum?",
+    "options": [
+      "A. ₦500",
+      "B. ₦1000",
+      "C. ₦1500",
+      "D. ₦2000"
+    ],
+    "answer": "B. ₦1000",
+    "explanation": "SI = PRT/100 = 5000 × 10 × 2 ÷ 100 = 1000."
+  },
+
+  {
+    "question": "Which of these sentences is correct?",
+    "options": [
+      "A. She don’t like rice.",
+      "B. She doesn’t likes rice.",
+      "C. She doesn’t like rice.",
+      "D. She don’t likes rice."
+    ],
+    "answer": "C. She doesn’t like rice.",
+    "explanation": "The subject 'she' requires 'doesn’t like' for correct grammar."
+  },
+  {
+    "question": "Choose the correct synonym: The teacher was very 'elated' after the result.",
+    "options": [
+      "A. Angry",
+      "B. Sad",
+      "C. Joyful",
+      "D. Afraid"
+    ],
+    "answer": "C. Joyful",
+    "explanation": "‘Elated’ means extremely happy or joyful."
+  },
+  {
+    "question": "Pick the correct spelling:",
+    "options": [
+      "A. Acommodate",
+      "B. Accommodate",
+      "C. Accomodate",
+      "D. Acomodate"
+    ],
+    "answer": "B. Accommodate",
+    "explanation": "‘Accommodate’ has double ‘c’ and double ‘m’."
+  },
+  {
+    "question": "Which is the antonym of 'scarce'?",
+    "options": [
+      "A. Few",
+      "B. Rare",
+      "C. Abundant",
+      "D. Limited"
+    ],
+    "answer": "C. Abundant",
+    "explanation": "‘Scarce’ means little or insufficient, opposite is ‘abundant’."
+  },
+  {
+    "question": "Which sentence is punctuated correctly?",
+    "options": [
+      "A. Musa said, “I am coming.”",
+      "B. Musa said, I am coming.",
+      "C. Musa said, I am coming.”",
+      "D. Musa said I am coming."
+    ],
+    "answer": "A. Musa said, “I am coming.”",
+    "explanation": "Quotation marks must open and close properly around speech."
+  },
+  {
+    "question": "Which part of speech is the underlined word: He runs 'fast'.",
+    "options": [
+      "A. Noun",
+      "B. Verb",
+      "C. Adjective",
+      "D. Adverb"
+    ],
+    "answer": "D. Adverb",
+    "explanation": "‘Fast’ describes how he runs, so it is an adverb."
+  },
+  {
+    "question": "Choose the correct sentence:",
+    "options": [
+      "A. The childrens are playing.",
+      "B. The children is playing.",
+      "C. The children are playing.",
+      "D. The child are playing."
+    ],
+    "answer": "C. The children are playing.",
+    "explanation": "‘Children’ is plural, so we use ‘are’."
+  },
+  {
+    "question": "Which tense is used: 'I had eaten before he came'?",
+    "options": [
+      "A. Simple Past",
+      "B. Present Perfect",
+      "C. Past Perfect",
+      "D. Future Perfect"
+    ],
+    "answer": "C. Past Perfect",
+    "explanation": "‘Had eaten’ is past perfect tense."
+  },
+  {
+    "question": "Find the odd one out: Joyful, Happy, Sad, Glad.",
+    "options": [
+      "A. Joyful",
+      "B. Happy",
+      "C. Sad",
+      "D. Glad"
+    ],
+    "answer": "C. Sad",
+    "explanation": "All others mean happy, while ‘sad’ is opposite."
+  },
+  {
+    "question": "Which pronoun correctly completes the sentence: Ade and ___ are going home.",
+    "options": [
+      "A. Me",
+      "B. I",
+      "C. Myself",
+      "D. Mine"
+    ],
+    "answer": "B. I",
+    "explanation": "Correct subject pronoun is ‘I’ (Ade and I are going home)."
+  },
+
+  {
+    "question": "What does 'NYSC' stand for in Nigeria?",
+    "options": [
+      "A. Nigerian Youth Service Company",
+      "B. National Youth Service Corps",
+      "C. National Young Students’ Council",
+      "D. Nigerian Yearly Service Campaign"
+    ],
+    "answer": "B. National Youth Service Corps",
+    "explanation": "NYSC = National Youth Service Corps."
+  },
+  {
+    "question": "What is the full meaning of 'WAEC'?",
+    "options": [
+      "A. West African Examination Council",
+      "B. West African Examinations Council",
+      "C. Western African Examination Committee",
+      "D. West Africa Education Council"
+    ],
+    "answer": "B. West African Examinations Council",
+    "explanation": "WAEC = West African Examinations Council."
+  },
+  {
+    "question": "What does 'JAMB' stand for?",
+    "options": [
+      "A. Joint Admission and Matriculation Board",
+      "B. Joint Admissions and Matriculation Board",
+      "C. Joint Admission Matriculation Body",
+      "D. Joint Academic Matriculation Board"
+    ],
+    "answer": "B. Joint Admissions and Matriculation Board",
+    "explanation": "JAMB = Joint Admissions and Matriculation Board."
+  },
+  {
+    "question": "Expand 'INEC'.",
+    "options": [
+      "A. Independent National Electoral Council",
+      "B. Independent Nigeria Election Commission",
+      "C. Independent National Electoral Commission",
+      "D. International Nigerian Election Commission"
+    ],
+    "answer": "C. Independent National Electoral Commission",
+    "explanation": "INEC = Independent National Electoral Commission."
+  },
+  {
+    "question": "What does 'NOUN' stand for?",
+    "options": [
+      "A. Nigerian Open University of Nigeria",
+      "B. National Open University of Nigeria",
+      "C. Nigerian Ordinary University Network",
+      "D. National Organisation of University Nigeria"
+    ],
+    "answer": "B. National Open University of Nigeria",
+    "explanation": "NOUN = National Open University of Nigeria."
+  },
+  {
+    "question": "What is the meaning of 'CBN'?",
+    "options": [
+      "A. Central Bank of Nigeria",
+      "B. Central Banking of Nigeria",
+      "C. Centre Bank of Nigeria",
+      "D. Central Banking Network"
+    ],
+    "answer": "A. Central Bank of Nigeria",
+    "explanation": "CBN = Central Bank of Nigeria."
+  },
+  {
+    "question": "Expand 'FIRS'.",
+    "options": [
+      "A. Federal Inland Revenue Service",
+      "B. Federal International Revenue System",
+      "C. Federal Internal Revenue Service",
+      "D. Federal Inland Revenue System"
+    ],
+    "answer": "A. Federal Inland Revenue Service",
+    "explanation": "FIRS = Federal Inland Revenue Service."
+  },
+  {
+    "question": "What does 'NGO' mean?",
+    "options": [
+      "A. National Government Organisation",
+      "B. Non-Governmental Organisation",
+      "C. New Government Organisation",
+      "D. Nigerian Governing Office"
+    ],
+    "answer": "B. Non-Governmental Organisation",
+    "explanation": "NGO = Non-Governmental Organisation."
+  },
+  {
+    "question": "Expand 'NTA'.",
+    "options": [
+      "A. Nigerian Television Authority",
+      "B. National Television Authority",
+      "C. Nigeria Telecommunication Agency",
+      "D. Nigerian Technology Association"
+    ],
+    "answer": "A. Nigerian Television Authority",
+    "explanation": "NTA = Nigerian Television Authority."
+  },
+  {
+    "question": "What does 'NUC' stand for?",
+    "options": [
+      "A. Nigerian University Commission",
+      "B. National University Commission",
+      "C. Nigerian Universities Council",
+      "D. National Universities Commission"
+    ],
+    "answer": "D. National Universities Commission",
+    "explanation": "NUC = National Universities Commission."
+  }
+]
